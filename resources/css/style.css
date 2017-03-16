@@ -5,5 +5,15 @@ body {
 
 .header {
   background-image: url('../images/the-flatiron-building.png') ;
+}
+
+h1 {
+  font-size: 70 px;
+  font-weight: bold;
+  color: white;
+}
+
+.header a {
+  font-size: 18px;
   color: white;
 }
